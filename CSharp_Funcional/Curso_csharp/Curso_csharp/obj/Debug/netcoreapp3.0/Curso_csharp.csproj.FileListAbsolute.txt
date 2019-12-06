@@ -1,0 +1,3 @@
+C:\WorkSpace\Curso_csharp\Curso_csharp\Curso_csharp\obj\Debug\netcoreapp3.0\Curso_csharp.csprojAssemblyReference.cache
+C:\WorkSpace\Curso_csharp\Curso_csharp\Curso_csharp\obj\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfoInputs.cache
+C:\WorkSpace\Curso_csharp\Curso_csharp\Curso_csharp\obj\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfo.cs
