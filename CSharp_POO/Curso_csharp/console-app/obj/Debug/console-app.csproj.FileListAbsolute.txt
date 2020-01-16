@@ -20,3 +20,11 @@ C:\WorkSpace\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\console-
 C:\WorkSpace\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\console-app.pdb
 C:\WorkSpace\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\Componentes.pdb
 C:\WorkSpace\Curso_csharp\CSharp_POO\Curso_csharp\console-app\obj\Debug\console-app.csproj.CopyComplete
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\console-app.exe.config
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\console-app.exe
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\console-app.pdb
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\bin\Debug\Componentes.pdb
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\obj\Debug\console-app.csprojAssemblyReference.cache
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\obj\Debug\console-app.csproj.CopyComplete
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\obj\Debug\console-app.exe
+D:\workspace Alex\Curso_csharp\CSharp_POO\Curso_csharp\console-app\obj\Debug\console-app.pdb
