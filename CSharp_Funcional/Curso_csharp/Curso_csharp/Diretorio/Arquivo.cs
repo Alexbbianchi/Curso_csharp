@@ -1,15 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.IO;
 using System.Text;
 
 namespace Diretorio
 {
-    class Arquivo
+    public class Arquivo
     {
+        private static string caminhoArquivo()
+        {
+            return ConfigurationManager.AppSettings["CaminhoArquivos"];
+        }
         public static void Ler(int numeroArquivo)
         {
-            string arquivoComCaminho = @"C:\WorkSpace\Curso_csharp\Curso_csharp\arq" + numeroArquivo + ".txt";
+            string arquivoComCaminho = caminhoArquivo() + numeroArquivo + ".txt";
             Console.WriteLine("\n======= Lendo arquivo =======\n" + arquivoComCaminho);
 
             if (File.Exists(arquivoComCaminho))
@@ -23,7 +28,7 @@ namespace Diretorio
                     }
                 }
             }
-            string arquivoComCaminho2 = @"C:\WorkSpace\Curso_csharp\Curso_csharp\arq" + (numeroArquivo + 1) + ".txt";
+            string arquivoComCaminho2 = caminhoArquivo() + (numeroArquivo + 1) + ".txt";
 
             if (File.Exists(arquivoComCaminho2))
             {

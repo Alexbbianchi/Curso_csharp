@@ -20,3 +20,32 @@ C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Curso_csharp\Curso_csharp\obj\
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfo.cs
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.dll
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.pdb
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.exe
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.dll.config
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.deps.json
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.runtimeconfig.json
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.runtimeconfig.dev.json
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.pdb
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.csprojAssemblyReference.cache
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfoInputs.cache
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfo.cs
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.pdb
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Security.Permissions.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.csproj.CopyComplete
