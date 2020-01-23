@@ -13,12 +13,18 @@ namespace Curso_csharp
            // Tela.Criar();
 
             var clientes = Cliente.LerClientes();
-            /*var cliente = new Cliente();
+           
+            var cliente = new Cliente();
             cliente.Nome = "Alex";
             cliente.Telefone = "95254133";
             cliente.CPF = "95232563363";
-            cliente.Gravar();*/
-           
+            cliente.Gravar();
+            
+            var cliente2 = new Cliente();
+            cliente2.Nome = "Sandro";
+            cliente2.Telefone = "343434";
+            cliente2.CPF = "34456767";
+            cliente2.Gravar();
         }
     }
 }

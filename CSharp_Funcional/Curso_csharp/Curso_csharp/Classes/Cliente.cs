@@ -8,6 +8,11 @@ namespace Curso_csharp.Classes
 {
     public class Cliente
     {
+        public Cliente()
+        {
+            this.Nome = "Danilo";
+        }
+
         public string Nome;
         public string Telefone;
         public string CPF;
