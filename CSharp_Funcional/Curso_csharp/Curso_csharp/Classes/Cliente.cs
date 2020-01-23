@@ -8,10 +8,16 @@ namespace Curso_csharp.Classes
 {
     public class Cliente
     {
-        public Cliente()
+        /// <summary>
+        /// Construtor da Classe   
+        /// </summary>
+        /// <param name="_name"></param>
+        public Cliente(string _name)
         {
-            this.Nome = "Danilo";
+            this.Nome = _name;
         }
+
+        public Cliente() { }
 
         public string Nome;
         public string Telefone;

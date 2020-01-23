@@ -20,7 +20,7 @@ namespace Curso_csharp
             cliente.CPF = "95232563363";
             cliente.Gravar();
             
-            var cliente2 = new Cliente();
+            var cliente2 = new Cliente("Cu");
             cliente2.Nome = "Sandro";
             cliente2.Telefone = "343434";
             cliente2.CPF = "34456767";
