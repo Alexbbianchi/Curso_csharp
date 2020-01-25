@@ -26,7 +26,7 @@ namespace Curso_csharp
              cliente2.CPF = "34456767";
              cliente2.Gravar();
              */
-            TesteArray t = new TesteArray();
+            List_Roles t = new List_Roles();
             IRoles f = new IRoles();
             //https://www.youtube.com/watch?v=6s4lomHKl-Q
             for (var i = 0; i < t.ListaRoles.Count; i++)
@@ -36,6 +36,20 @@ namespace Curso_csharp
                     if(t.ListaRoles[i] != f.Roles[j])
                     {
                         Console.WriteLine(" [ " + i + "] [" + j + " ] ");
+                    }
+                }
+            }
+
+            foreach(var teste in t.ListaRoles)
+            {
+                foreach (var valor in f.Roles)
+                {
+                    for (var j = 0; j < f.Roles.Count; j++)
+                    {
+                        if (teste == valor)
+                        {
+                            Console.WriteLine(" [ " + teste + "] [" + valor + " ] ");
+                        }
                     }
                 }
             }
