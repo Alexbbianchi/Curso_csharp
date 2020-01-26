@@ -8,7 +8,6 @@ C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Teste\Teste\bin\Debug\netcorea
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.pdb
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.dll
 C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.pdb
-D:\workspace Alex\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.csprojAssemblyReference.cache
 D:\workspace Alex\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.AssemblyInfoInputs.cache
 D:\workspace Alex\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.AssemblyInfo.cs
 D:\workspace Alex\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.dll
@@ -19,3 +18,4 @@ D:\workspace Alex\Curso_csharp\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.runtime
 D:\workspace Alex\Curso_csharp\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.runtimeconfig.dev.json
 D:\workspace Alex\Curso_csharp\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.dll
 D:\workspace Alex\Curso_csharp\Teste\Teste\bin\Debug\netcoreapp3.0\Teste.pdb
+D:\workspace Alex\Curso_csharp\Teste\Teste\obj\Debug\netcoreapp3.0\Teste.csprojAssemblyReference.cache
