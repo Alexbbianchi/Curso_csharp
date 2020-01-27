@@ -27,7 +27,7 @@ namespace Teste
             c2.rabiscar();*/
 
             // teste
-            
+            /*
             Pessoa pessoa1 = new Pessoa();
             Pessoa pessoa2 = new Pessoa();
             Pessoa pessoa3 = new Pessoa();
@@ -45,7 +45,7 @@ namespace Teste
             pessoa1.setAltura(Convert.ToDouble(entrada));
             pessoa1.faleSobreVoce();
 
-           
+           */
 
         }
     }

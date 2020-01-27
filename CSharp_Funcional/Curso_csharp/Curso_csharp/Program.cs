@@ -26,33 +26,25 @@ namespace Curso_csharp
              cliente2.CPF = "34456767";
              cliente2.Gravar();
              */
-            List_Roles t = new List_Roles();
-            IRoles f = new IRoles();
-            //https://www.youtube.com/watch?v=6s4lomHKl-Q
-            for (var i = 0; i < t.ListaRoles.Count; i++)
-            {
-                for (var j = 0; j < f.Roles.Count; j++)
-                {
-                    if(t.ListaRoles[i] != f.Roles[j])
-                    {
-                        Console.WriteLine(" [ " + i + "] [" + j + " ] ");
-                    }
-                }
-            }
+            bool resp = Teste();
 
-            foreach(var teste in t.ListaRoles)
+            Console.WriteLine(resp);
+
+            static bool Teste()
             {
-                foreach (var valor in f.Roles)
+
+                List_Roles t = new List_Roles();
+                //https://www.youtube.com/watch?v=6s4lomHKl-Q
+
+                foreach(var aux in t.ListRolesCompare)
                 {
-                    for (var j = 0; j < f.Roles.Count; j++)
-                    {
-                        if (teste == valor)
-                        {
-                            Console.WriteLine(" [ " + teste + "] [" + valor + " ] ");
-                        }
-                    }
+                    if ((!t.ListaRoles.Contains(aux)) || 
+                       (String.Compare(t.File_Cliente, t.License_Cliente, true) != 0))
+                       return false;
+
                 }
-            }
+                return true;
+             }
         }
     }
 }

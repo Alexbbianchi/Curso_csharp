@@ -17,7 +17,24 @@ namespace Curso_csharp.Classes
             "A5",
             "A6",
             "A7",
-            "A8" };
+            "A8" 
+        };
+        
+        public List<string> ListRolesCompare = new List<string>() {
+            "A4",
+            "A6",
+            "A8" 
+        };
+
+        public string File_Cliente = "Manuel";
+        public string License_Cliente = "Manuel";
+
+
+
+        public List_Roles()
+        {
+
+        }
     }
 
 }

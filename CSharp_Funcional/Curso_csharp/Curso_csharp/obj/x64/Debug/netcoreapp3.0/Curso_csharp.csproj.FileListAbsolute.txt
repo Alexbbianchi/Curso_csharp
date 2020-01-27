@@ -27,7 +27,6 @@ D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x6
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.runtimeconfig.dev.json
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.dll
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\bin\x64\Debug\netcoreapp3.0\Curso_csharp.pdb
-D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.csprojAssemblyReference.cache
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfoInputs.cache
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.AssemblyInfo.cs
 D:\workspace Alex\Curso_csharp\CSharp_Funcional\Curso_csharp\Curso_csharp\obj\x64\Debug\netcoreapp3.0\Curso_csharp.dll
