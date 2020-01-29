@@ -1,8 +1,0 @@
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe.config
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.exe
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\bin\Debug\SistemaHotel.pdb
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csprojAssemblyReference.cache
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.Properties.Resources.resources
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.csproj.GenerateResource.cache
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.exe
-C:\Users\alexssandro.bianchi\Desktop\Curso_csharp\csharp\SistemaHotel\SistemaHotel\obj\Debug\SistemaHotel.pdb
