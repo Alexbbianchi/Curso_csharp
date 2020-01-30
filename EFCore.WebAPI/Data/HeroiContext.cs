@@ -17,7 +17,7 @@ namespace EFCore.WebAPI.Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Integrated Security=SSPI;Persist Security Info=False;User ID=sa;Initial Catalog=HerroApp;Data Source=DESKTOP-2OV73Q7");
+            optionsBuilder.UseSqlServer("Password=sa;Persist Security Info=True;User ID=sa;Initial Catalog=HeroApp;Data Source=DESKTOP-2OV73Q7");
         }
 
         //https://www.youtube.com/watch?v=ipbSwv09dDU&t=196s
