@@ -17,5 +17,7 @@ namespace EFCore.WebAPI.Models
 
         public DateTime DtFim { get; set; }
 
+        public List<HeroiBatalha> HeroiBatalhas { get; set; }
+
     }
 }
