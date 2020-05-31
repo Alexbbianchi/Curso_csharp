@@ -46,7 +46,8 @@ namespace Teste
             pessoa1.faleSobreVoce();
 
            */
-
+            Teste1 teste = new Teste1(5);
+            Console.WriteLine(teste.a);
         }
     }
 }
